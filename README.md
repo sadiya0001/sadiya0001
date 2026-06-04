@@ -58,10 +58,7 @@ I am an **Information Technology student and Full-Stack Software Engineer** pass
 * **Architecture:** Successfully transitioned from a monolithic architecture to a decoupled, high-availability microservices infrastructure to ensure seamless horizontal scaling.
 * **Tech Stack:** Spring Boot, Next.js, PostgreSQL.
 
-### 🌾 **Smart Section-Based Crop Monitoring & Remote Control System**
-* **Description:** An advanced IoT solution featuring real-time sensor integration and data cross-validation to power automated agricultural telemetry and remote pump controls.
-* **Key Feature:** Implemented dual-layer verification logic mapping live sensor telemetry against image processing data via a unified 2D visualization dashboard.
-* **Tech Stack:** Python, IoT Protocols, Flutter/React.
+
 
 ---
 
