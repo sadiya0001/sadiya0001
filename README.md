@@ -1,42 +1,67 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sadisha Viraj 👋
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+I am an **Information Technology student and Full-Stack Software Engineer** passionate about building scalable microservices, robust web applications, and intelligent IoT systems. I thrive on breaking down complex problems, optimizing system architectures, and engineering clean, efficient code.
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Current Project or Company]**
-- 🌱 I’m currently learning **[Technologies/Frameworks you are learning]**
-- 👯 I’m looking to collaborate on **[Types of projects you want to work on]**
-- 🤔 I’m looking for help with **[Something you need help with]**
-- 💬 Ask me about **[Your areas of expertise]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[A fun fact about yourself]**
+- 🔭 **Current Focus:** Migrating complex monolithic applications into scalable, high-performance microservices.
+- 🌱 **Actively Mastering:** Advanced backend patterns, cloud-native deployment strategies, and system optimization.
+- 👯 **Collaboration Interests:** Open-source backend systems, cybersecurity diagnostic tools, and algorithmic trading infrastructure.
+- 💬 **Ask Me About:** React/Next.js ecosystem, Spring Boot microservices, Flutter cross-platform development, and IoT sensor integration.
+- ⚡ **Fun Fact:** I like building automation scripts that handle everything from tracking system telemetry to triggering signal bots.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### 🧮 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### Frameworks & Libraries
+### 🌐 Frameworks & Libraries
 <p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-### Tools & Databases
+### 🗄️ Infrastructure, Databases & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+## 🚀 Key Projects
+
+### 🛠️ **DocRoad Platform**
+* **Description:** A real-time assistance and diagnostic ecosystem connecting stranded motorists with nearby mechanics.
+* **Architecture:** Successfully transitioned from a monolithic architecture to a decoupled, high-availability microservices infrastructure to ensure seamless horizontal scaling.
+* **Tech Stack:** Spring Boot, Next.js, PostgreSQL.
+
+### 🌾 **Smart Section-Based Crop Monitoring & Remote Control System**
+* **Description:** An advanced IoT solution featuring real-time sensor integration and data cross-validation to power automated agricultural telemetry and remote pump controls.
+* **Key Feature:** Implemented dual-layer verification logic mapping live sensor telemetry against image processing data via a unified 2D visualization dashboard.
+* **Tech Stack:** Python, IoT Protocols, Flutter/React.
 
 ---
 
@@ -49,20 +74,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya0001&layout=compact&theme=radium" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_WEBSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
