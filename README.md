@@ -108,10 +108,10 @@ The project management module of a group ERP system (IT2305, Enterprise System D
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiya0001&show_icons=true&theme=radium&count_private=true" alt="sadiya0001's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiya0001&theme=radium" alt="sadiya0001's GitHub streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sadiya0001&show_icons=true&theme=radical&count_private=true" alt="sadiya0001's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiya0001&theme=radical" alt="sadiya0001's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya0001&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sadiya0001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
